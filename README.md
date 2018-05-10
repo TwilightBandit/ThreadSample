@@ -13,3 +13,7 @@ Calculate: バックグラウンド処理で移動ルートを変更します。
 動かすときは<br />
 cocos2d-x v3.16 で新規プロジェクトを作成して、ClassesとResourcesを取り込んで、自分でビルドしてください。
 
+## Author
+黄昏山賊
+https://trial-cocos2d-x.blogspot.jp/
+cocos2d-xとc++を勉強中。
