@@ -1,6 +1,6 @@
 ﻿#pragma execution_character_set("utf-8")
 //
-// Created by bandit on 2017/09/16.
+// Created by twilight_bandit on 2017/09/16.
 //
 
 #ifndef CHAR_H
